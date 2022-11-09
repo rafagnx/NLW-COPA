@@ -5,7 +5,7 @@
 
 
 
-[Clique aqui para acessar](https://rafagnx.github.io/NLWCopa//)
+[Clique aqui para acessar](https://rafagnx.github.io/NLW-COPA/)
 
 
 
